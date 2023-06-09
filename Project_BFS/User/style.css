@@ -1,0 +1,18 @@
+.cart_image {
+  width: 50px;
+  height: 50px;
+}
+:root {
+  --brown: #d2b48c;
+}
+.ms-auto {
+  margin-left: 100px;
+}
+.home {
+  display: flex;
+  align-items: center;
+  min-height: 90vh;
+  background: url(background.jpg) no-repeat;
+  background-size: contain;
+  background-position: center;
+}
